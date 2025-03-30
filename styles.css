@@ -1,0 +1,135 @@
+https://dev-habibatou.github.io/Tache3-atelier/
+
+https://dev-habibatou.github.io/Tache3-atelier/   /* lien github tache 3*/
+https://dev-habibatou.github.io/Tache4-atelier/ /*lien tache 4*/
+
+.entête{
+    position: relative;
+    
+}
+h3{
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h2{
+    color: rgb(16, 148, 119);
+    font-family: sans-serif;
+    text-align: center;
+}
+mark{
+    color: white;
+    background-color: blue;
+}
+
+span{
+    color: orange;
+}
+.con{
+    color: rgb(53, 51, 51);
+    padding-top: -25px;
+    bottom: 0;
+}
+.hero{
+    border: 2px solid black;
+    padding: 50px;
+} /* mot de passe oublié*/
+.oublié a{
+    color: rgb(16, 148, 119);
+    font-weight: bold;
+    font-family: sans-serif;
+    text-decoration: none;
+    float: right;
+}
+div a{
+    color: rgb(14, 58, 179);
+    
+}
+ body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100;
+    border: black;
+   
+ }
+ form{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    background-color: white;
+ }
+ .con{
+    text-align: center;
+ }
+.group-input {
+    position: relative;
+    border-bottom: 2px solid black;
+    margin: 15px;
+    padding-top:-8%;
+    bottom: 0%;
+}
+.group-input label  {
+    position: absolute;
+    color: black;
+    top: 30%;
+    left: 0;
+    transform: translate(-50%);
+    bottom: -50%;
+    margin-bottom: 10%;
+}
+.group-input input{
+    position: relative;   
+    margin: 0;
+    top: -50%;
+    top:30%;
+    margin-bottom: -20%;
+    margin-bottom:-20%;
+    margin-top: -20%;
+    margin-top: -30%;
+    padding-top: 20%;
+    color: black;
+    background: transparent;
+    border: none;
+    outline: none;
+    font-size: 16px;
+}
+   /* bouton connecter */
+ .hero .btn {
+    background: rgb(16, 148, 110);
+    color: white;
+    width: 100%;
+    padding: 8px;
+    border-radius: 10px;
+    cursor: pointer;
+    border:none ;
+ }
+ .p2{
+    text-align: center;
+    color: rgb(44, 42, 42);
+ }
+  /* bouton google*/
+ .btngoogle  button {
+    padding: 5px;
+    border-radius:10px;
+    border-color:rgb(19, 18, 18);
+    cursor: pointer;
+    width: 65%;
+    margin-left: 20%;
+    background-color: rgb(150, 148, 148);
+ }
+ /* icone google  */
+ .btngoogle img{
+    width: 30px;
+    height: 30px;
+    align-items: center;
+    text-align:center;
+     }
+ .entête img{
+    width: 25px;
+    height: 25px;
+ }
+ 
+ 
+ 
+ 
